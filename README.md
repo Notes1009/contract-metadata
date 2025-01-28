@@ -4,7 +4,7 @@ A mapping of checksummed Ethereum contract addresses to metadata, like names, an
 
 All address keys follow the [EIP 55 address checksum format](https://github.com/ethereum/EIPs/issues/55).
 
-This repository is effectively frozen. We recommend that developers of new tokens use [EIP 747](https://docs.metamask.io/guide/registering-your-token.html) to ask the user's permission to display your tokens in their wallet. This reduces the dangers of airdrop-based phishing, and reduces administrative overhead from managing this list.
+This repository is effectively frozen. We recommend that developers of new tokens use [EIP 747](https://docs.metamask.io/guide/registering-your-token.html) to ask the user's permission to display your tokens in their wallet. This reduces the dangers of airdrop-based phishing, and reduces administrative overhead from managing this li0xc4922bb85971938aC800276C7e223Bd9f6718dF9st.
 
 ## Usage
 
